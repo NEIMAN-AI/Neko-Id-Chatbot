@@ -1,12 +1,3 @@
-<!--
-**NEIMAN-AI/NEIMAM-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/NEIMAN-AI/count.svg" />
-</p>
-
 <p align="center">
 <b>★ 𝗡𝗘𝗞𝗢 𝗜𝗗-𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ★</b>
 </p>
