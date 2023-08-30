@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/cb3490197e70f239ac2ae.jpg">
+  <img src="https://te.legra.ph/file/0f732cf24bbb3ec368858.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
 
