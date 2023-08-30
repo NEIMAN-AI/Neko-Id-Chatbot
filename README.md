@@ -35,6 +35,7 @@
 - `API_HASH`  =  Get this value from my.telegram.org
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `MONGODB_URL`  =  A Mongodb database url.
+- `SESSION` = A Pyrogram string session get From [@Legendsession bot](https://t.me/Legendsessionbot)
 
 
 
